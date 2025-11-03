@@ -9,13 +9,7 @@ This repository contains the data collection scripts, preprocessing pipeline, an
 ## Overview
 
 This repository contains:
-- Scripts to collect and preprocess Model Cards from Hugging Face Hub.
-- Metadata for 100,000 models.
-- Information of 61,665 valid Model Cards.
-- Parsed sections for ethical and bias-related analysis.
-
-## Repository structure
-
-- `data/` : metadata and Model Cards JSON files
-- `src/`  : scripts for collection, cleaning, and parsing
-- `notebooks/` : analysis notebooks (optional)
+- **Notebook:** `model_cards_analysis.ipynb` – notebook for collecting, preprocessing, and analyzing Model Cards.
+- **Data files:**  
+  - `model_metadata.csv` – metadata of the 100,000 most-downloaded models from Hugging Face Hub.  
+  - `model_cards_checkpoint.json` – textual content of 61,665 Model Cards. 
