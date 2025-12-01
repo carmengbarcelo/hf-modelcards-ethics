@@ -12,4 +12,4 @@ This repository includes:
 - **Notebook:** `HF_Model_Cards.ipynb` – notebook for collecting, preprocessing, and analyzing Model Cards.
 - **Data files:**  
   - `model_metadata.csv` – metadata of the 100,000 most-downloaded models from Hugging Face Hub.  
-  - `model_cards_checkpoint.zip` – ZIP archive containing textual content of 61,665 Model Cards in a single JSON file. 
+  - `model_cards_checkpoint.zip` – ZIP archive containing textual content of 54,099 Model Cards in a single JSON file. 
